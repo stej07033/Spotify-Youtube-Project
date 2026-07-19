@@ -523,6 +523,6 @@ The final report includes:
 
 - **GitHub:** https://github.com/stej07033
 - **LinkedIn:** https://www.linkedin.com/in/madanapalli-sai-19b835389
-- **Project Demo:** https://drive.google.com/file/d/1XADghy4C0PWW03jkAkpOiRHkFuLIOXwR/view?usp=sharing
+- **Resume:** https://drive.google.com/file/d/1XADghy4C0PWW03jkAkpOiRHkFuLIOXwR/view?usp=sharing
 
 
