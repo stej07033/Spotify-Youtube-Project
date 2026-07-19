@@ -1,5 +1,7 @@
 # Spotify-Youtube-Project
 
+![spotify_project](https://github.com/stej07033/Spotify-Youtube-Project/upload/main)
+
 # 🎵 Spotify & YouTube SQL Data Analysis Project
 
 ## 📌 Project Overview
