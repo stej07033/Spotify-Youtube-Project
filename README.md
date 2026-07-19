@@ -503,11 +503,26 @@ The final report includes:
 ---
 ## 👩‍💻 Author
 
-**SAI M**
+### **SAI M**
+
+**Aspiring Data Analyst | SQL & PostgreSQL Enthusiast**
+
+### 💼 Skills
+
+- SQL
+- PostgreSQL
+- Python
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Analytics
+- Git & GitHub
 
 ### 📬 Connect with Me
 
 - **GitHub:** https://github.com/stej07033
 - **LinkedIn:** https://www.linkedin.com/in/madanapalli-sai-19b835389
-- **Project Demo / Drive:** https://drive.google.com/file/d/1XADghy4C0PWW03jkAkpOiRHkFuLIOXwR/view?usp=sharing
+- **Project Demo:** https://drive.google.com/file/d/1XADghy4C0PWW03jkAkpOiRHkFuLIOXwR/view?usp=sharing
+
 
