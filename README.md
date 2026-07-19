@@ -52,7 +52,7 @@ The dataset contains Spotify and YouTube music information including:
 
 ---
 
-## Project_Solutions
+## Project_Solutions(https://github.com/stej07033/Spotify-Youtube-Project/blob/main/project_spotify_sql.sql)
 
 ## 📋 SQL Concepts Covered
 
