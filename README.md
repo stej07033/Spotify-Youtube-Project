@@ -1,6 +1,7 @@
 # Spotify-Youtube-Project
 
-![spotify_project](![Uploading image.png…]()
+(<img width="1536" height="1024" alt="767d52ae-838f-41df-ad9c-79c394c90609" src="https://github.com/user-attachments/assets/00d04ea5-87d8-4d0e-8520-14edcd0217b1" />
+
 
 
 # 🎵 Spotify & YouTube SQL Data Analysis Project
